@@ -28,3 +28,16 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+AGENTS.md
+Documentação Projeto Prog lll.txt
+COUNTER_Documentacao_Projeto_Programacao_III_2026.md
+COUNTER_Documentacao_Projeto_Programacao_III_2026*.md
+
+mobile/.gradle/
+mobile/.idea/
+mobile/.kotlin/
+mobile/local.properties
+mobile/gradle/gradle-daemon-jvm.properties
+mobile/app/build/
+mobile/build/
