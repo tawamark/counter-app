@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="counter_primary">#FC6F20</color>
+    <color name="counter_primary_dark">#E85F16</color>
+    <color name="counter_text">#323232</color>
+    <color name="counter_muted">#6F6F6F</color>
+    <color name="counter_background">#FFFFFF</color>
+    <color name="counter_surface">#F7F5F3</color>
+    <color name="counter_border">#E5E0DC</color>
+    <color name="counter_error">#DC2626</color>
+    <color name="counter_success">#15803D</color>
+    <color name="counter_warning">#F59E0B</color>
+    <color name="counter_info">#2563EB</color>
+</resources>
